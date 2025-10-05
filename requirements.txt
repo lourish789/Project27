@@ -13,3 +13,4 @@ beautifulsoup4
 python-dotenv
 gunicorn
 psycopg2-binary
+pinecone
